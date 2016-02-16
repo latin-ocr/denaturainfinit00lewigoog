@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./denaturainfinit00lewigoog_0003.png"; bbox 0 0 921 1400; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 196 338 527 684">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 196 338 527 684">
+     <span class='ocr_line' id='line_1_1' title="bbox 196 338 527 684; baseline 0 716"><span class='ocrx_word' id='word_1_1' title='bbox 196 338 527 684; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 270 711 536 736">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 270 711 536 736">
+     <span class='ocr_line' id='line_1_2' title="bbox 270 711 536 736; baseline -0.004 -5"><span class='ocrx_word' id='word_1_2' title='bbox 270 712 356 734; x_wconf 48' lang='lat' dir='ltr'>watham</span> <span class='ocrx_word' id='word_1_3' title='bbox 370 711 444 735; x_wconf 59' lang='lat' dir='ltr'>anum</span> <span class='ocrx_word' id='word_1_4' title='bbox 457 712 536 736; x_wconf 61' lang='lat' dir='ltr'>ffllxrary</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 242 766 564 820">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 242 766 564 820">
+     <span class='ocr_line' id='line_1_3' title="bbox 347 766 460 776; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 347 766 382 776; x_wconf 72' lang='lat' dir='ltr'>Tm:</span> <span class='ocrx_word' id='word_1_6' title='bbox 391 766 430 776; x_wconf 50' lang='lat' dir='ltr'>ont-r</span> <span class='ocrx_word' id='word_1_7' title='bbox 439 766 460 776; x_wconf 77' lang='lat' dir='ltr'>OF</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 242 804 564 820; baseline 0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 242 804 372 820; x_wconf 85' lang='lat' dir='ltr'>STEPHEN</span> <span class='ocrx_word' id='word_1_9' title='bbox 395 804 564 820; x_wconf 33' lang='lat' dir='ltr'>SALISBURYV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 288 851 517 865">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 288 851 517 865">
+     <span class='ocr_line' id='line_1_5' title="bbox 288 851 517 865; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 288 851 312 863; x_wconf 68' lang='lat'>01⁷</span> <span class='ocrx_word' id='word_1_11' title='bbox 325 851 449 865; x_wconf 78' lang='lat' dir='ltr'>WORCESTER.</span> <span class='ocrx_word' id='word_1_12' title='bbox 462 851 517 863; x_wconf 74' lang='lat' dir='ltr'>MASS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 346 892 461 902">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 346 892 461 902">
+     <span class='ocr_line' id='line_1_6' title="bbox 346 892 461 902; baseline 0 -1"><span class='ocrx_word' id='word_1_13' title='bbox 346 892 461 902; x_wconf 51' lang='lat'>111111111111111</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 340 1197 581 1338">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 340 1197 581 1338">
+     <span class='ocr_line' id='line_1_7' title="bbox 340 1197 581 1338; baseline 0 62"><span class='ocrx_word' id='word_1_14' title='bbox 340 1197 581 1338; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
